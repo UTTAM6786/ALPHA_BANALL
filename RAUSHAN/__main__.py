@@ -37,7 +37,7 @@ async def start_command(client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "ᴏᴡɴᴇʀ ᴀʟᴘʜᴀ", url=f"https://t.me/{OWNER}")
+                        "Cʜᴇᴄᴋ ❍ᴡɴᴇʀ", url=f"https://t.me/{OWNER}")
                 ]       
            ]
       )
